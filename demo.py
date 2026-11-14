@@ -1,4 +1,11 @@
+
+"""
+This module demonstrates basic Python functions.
+"""
+
+
 def my_function():
+    """Return the sum of three numbers."""
     a = 5
     b = 6
     c = 6
@@ -6,6 +13,7 @@ def my_function():
 
 
 def test():
+    """Print a testing success message."""
     print("Testing successful")
 
 
