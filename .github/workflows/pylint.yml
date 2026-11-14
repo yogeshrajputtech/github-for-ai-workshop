@@ -26,4 +26,4 @@ jobs:
 
       - name: Run Pylint
         run: |
-          python -m pylint demo.py
+          python -m pylint demo
